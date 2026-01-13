@@ -10,6 +10,10 @@ The model is available [here](https://huggingface.co/JoshuaChick/TraversableGrou
 ```pip install -r requirements.txt```
 
 ```python inference.py```
+
+or, if using Linux
+
+```python3 inference.py```
 # Example
 ![original](https://github.com/JoshuaChick/TraversableGroundForRobot/blob/main/readme_images/image.png?raw=true)
 ![result](https://github.com/JoshuaChick/TraversableGroundForRobot/blob/main/readme_images/result.png?raw=true)
