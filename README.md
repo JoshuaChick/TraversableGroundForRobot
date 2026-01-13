@@ -11,5 +11,5 @@ The model is available [here](https://huggingface.co/JoshuaChick/TraversableGrou
 
 ```python inference.py```
 # Example
-![original](https://github.com/JoshuaChick/TraversableGroundForRobot/readme_images/image.png?raw=true)
-![result](https://github.com/JoshuaChick/TraversableGroundForRobot/readme_images/result.png?raw=true)
+![original](https://github.com/JoshuaChick/TraversableGroundForRobot/blob/main/readme_images/image.png?raw=true)
+![result](https://github.com/JoshuaChick/TraversableGroundForRobot/blob/main/readme_images/result.png?raw=true)
